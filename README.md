@@ -2,7 +2,7 @@
 
 ![Jayesh Banner](https://export-download.canva.com/JiSl0/DAGzEOJiSl0/2/0/0001-4165182114535185857.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20250914%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250914T181058Z&X-Amz-Expires=85667&X-Amz-Signature=d10f2bdb2b87f16bac496ce613b24e2585e120bd038f99a33b6a81e077bda8f5&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27BLack%2520Minimalist%2520Corporate%2520Staff%2520Identity%2520LinkedIn%2520Banner.png&response-expires=Mon%2C%2015%20Sep%202025%2017%3A58%3A45%20GMT)
 
-** 📊 Data Analyst | 🧠 SQL, Python, Power BI, Tableau, Excel**
+ 📊 Data Analyst | 🧠 SQL, Python, Power BI, Tableau, Excel
 
 ---
 
