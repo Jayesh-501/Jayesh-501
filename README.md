@@ -27,28 +27,6 @@ I'm a passionate data enthusiast who loves transforming raw data into meaningful
 - Basic C Programming & Software Development
 - Strong analytical thinking & problem-solving mindset
 
----
-
-## 📊 Projects
-
-### 🎬 IMDb Analytics Dashboard
-![IMDb Dashboard](Dashboard%20preview/imdb-dashboard.png)
-- Explored movie data using SQL
-- Visualized top genres, directors, and ratings in Power BI
-
-### ✈️ Airline Analysis Dashboard
-![Airline Dashboard](Dashboard%20preview/airline-dashboard.png)
-- Analyzed flight data using Python & Tableau
-- Delivered insights on delays, cancellations, and performance
-
-### 🎮 Gaming Dashboard
-![Gaming Dashboard](Dashboard%20preview/gaming-dashboard.png)
-- Cleaned and visualized 5000+ gaming records in Power BI
-- Created filters for genre, playtime, and user engagement
-
-🔗 More projects available in my [GitHub repositories](https://github.com/jayeshkados)
-
----
 
 ## 📫 Connect with Me
 
