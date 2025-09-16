@@ -14,7 +14,7 @@ I'm a passionate data enthusiast who loves transforming raw data into meaningful
 ## 📫 Connect with Me
 
 - 📧 Email: [jayeshkados@gmail.com](mailto:jayeshkados@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jayeshkados](https://linkedin.com/in/jayeshkados)
+- 💼 LinkedIn: [linkedin.com/in/jayeshkados](www.linkedin.com/in/jayesh501)
 - 🐙 GitHub: [github.com/jayeshkados](https://github.com/jayeshkados)
 
 ---
