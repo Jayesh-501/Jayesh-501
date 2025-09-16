@@ -13,7 +13,7 @@ I'm a passionate data enthusiast who loves transforming raw data into meaningful
 ---
 ## 📫 Connect with Me
 
-- 📧 Email: [[jayeshkados@gmail.com](https://cdn-icons-png.flaticon.com/128/732/732200.png)](mailto:jayeshkados@gmail.com)
+- 📧 Email: [(https://cdn-icons-png.flaticon.com/128/732/732200.png)](mailto:jayeshkados@gmail.com)
 - 💼 LinkedIn:[Linkedin.com](https://www.linkedin.com/in/jayeshkados/)
 
 
